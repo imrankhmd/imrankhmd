@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imran Khan Mohammad</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<h3>About Me
+<h3>About Me:-
 While pursuing my civil engineering degree I discovered my attraction towards programming. So, I decided to turn my interest into a career and plunged into a full-time course at Masai School. Receiving intensive training on the MERN stack has opened new gateways of learning technology for me and I find myself continuously learning and rapidly growing as a Full Stack Web Developer.
 
 Actively seeking opportunities to be able to apply my skill set to create exciting products.<h3>
