@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohamma59378661" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma59378661?logo=twitter&style=for-the-badge" alt="mohamma59378661" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/imrankhmd/imrankhmd](https://github.com/imrankhmd/imrankhmd)
 
